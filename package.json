@@ -1,0 +1,38 @@
+{
+  "name": "aws-s3-operations",
+  "version": "1.0.0",
+  "description": "Communicating AWS s3 with node script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshbharathi68/aws-s3-operations.git"
+  },
+  "keywords": [
+    "AWS",
+    "S3",
+    "download",
+    "bucket",
+    "object"
+  ],
+  "author": "Vignesh Bharathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshbharathi68/aws-s3-operations/issues"
+  },
+  "homepage": "https://github.com/vigneshbharathi68/aws-s3-operations#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1613.0",
+    "dotenv": "^16.4.5",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "@babel/preset-react": "^7.24.1",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^9.1.3"
+  }
+}
