@@ -1,6 +1,6 @@
 {
   "name": "aws-s3-operations",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Communicating AWS s3 with node script",
   "main": "index.js",
   "scripts": {
